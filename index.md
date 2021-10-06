@@ -1,12 +1,12 @@
-## Welcome to QinZXX' Home age
+## QinZXX' 静态主页
 
-You can use the [editor on GitHub](https://github.com/QinZXX/QinZXX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/QinZXX/QinZXX.github.io/edit/master/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+只要提交这个repo的index.md或者__config.yaml, GitHub Pages 将会运行 [Jekyll](https://jekyllrb.com/) 然后重建本网页。
 
-### Introduction
+### 简介
 
-This is a personal home page!
+QinZXX个人主页
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+查看更详细的介绍请前往[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)。
 
 ### Jekyll Themes
 
-My Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QinZXX/QinZXX.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我的页面将会使用的布局的样式来自于在我的仓库中选择的Jekyll主题[repository settings](https://github.com/QinZXX/QinZXX.github.io/settings)。主题的名称保存在Jekyll主题配置文件 `_config.yml` 中。
 
-### Support or Contact
+### 支持 & 交流
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+对本网页还有疑问吗？ 可以查看文档[documentation](https://help.github.com/categories/github-pages-basics/) 或者咨询[contact support](https://github.com/contact) ，这里的人将会帮助你答疑。
