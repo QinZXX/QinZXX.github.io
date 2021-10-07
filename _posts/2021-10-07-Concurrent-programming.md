@@ -74,7 +74,7 @@ int f(double);//直接省略参数名
 int g(double (*pf)()); //声明接受一个无参数返回类型为double的函数指针pf参数，
 //返回值为int类型的函数  
 int g(double pf());//效果一样，pf是隐式函数指针  
-int g(double ();；//直接省略参数名 
+int g(double ();//直接省略参数名 
 ```
 
 
