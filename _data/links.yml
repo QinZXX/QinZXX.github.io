@@ -1,14 +1,14 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 纸箱
+  url: https://github.com/qinzxx
   src: life
 
-- name: Connie 酱
-  url: https://connie99.github.io
-  src: life
+#- name: Connie 酱
+#  url: https://connie99.github.io
+#  src: life
 
-- name: 只宁静不致远
-  url: http://zxning.github.io
-  src: life
+#- name: 只宁静不致远
+#  url: http://zxning.github.io
+#  src: life
 
 - name: Blog Something
   url: http://chenxiaoyoyo.github.io
@@ -38,37 +38,37 @@
   url: https://candy961.github.io/
   src: life
 
-- name: 王玉超
-  url: https://yuchao.wang/
-  src: www
+#- name: 王玉超
+#  url: https://yuchao.wang/
+#  src: www
 
-- name: 水寒的博客
-  url: https://dp2px.com
-  src: www
+#- name: 水寒的博客
+#  url: https://dp2px.com
+#  src: www
 
-- name: 孙不服的博客
-  url: https://sunbufu.github.io/
-  src: www
+#- name: 孙不服的博客
+#  url: https://sunbufu.github.io/
+#  src: www
 
-- name: HwiLu's 博客
-  url: https://hwilu.github.io/
-  src: www
+#- name: HwiLu's 博客
+#  url: https://hwilu.github.io/
+#  src: www
 
-- name: 有次博客
-  url: http://you.ci/
-  src: www
+#- name: 有次博客
+#  url: http://you.ci/
+#  src: www
 
-- name: 呓城之城
-  url: http://yicheng.zdyrs.com/
-  src: www
+#- name: 呓城之城
+#  url: http://yicheng.zdyrs.com/
+#  src: www
 
 - name: 秦大圣的博客
-  url: https://qinjisheng.top/
+  url: https://www.ieeefellow.com/
   src: www
 
-- name: 极客玩家大白
-  url: https://geekplayers.com/
-  src: www
+#- name: 极客玩家大白
+#  url: https://geekplayers.com/
+#  src: www
 
 - name: 见字如面
   url: https://hiwannz.com
