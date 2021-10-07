@@ -1,5 +1,5 @@
 - name: 纸箱
-  url: https://github.com/qinzxx
+  url: https://qinzxx.github.io
   src: life
 
 #- name: Connie 酱
@@ -10,28 +10,20 @@
 #  url: http://zxning.github.io
 #  src: life
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
-  src: life
+#- name: Blog Something
+#  url: http://chenxiaoyoyo.github.io
+#  src: life
 
 - name: 日新亭
   url: http://www.fengerzh.com/
   src: life
 
-- name: wanandroid
-  url: http://www.wanandroid.com/
-  src: life
+#- name: wanandroid
+#  url: http://www.wanandroid.com/
+#  src: life
 
 - name: ZZY补完计划
   url: https://zzycreate.github.io/
-  src: life
-
-- name: 村农
-  url: http://www.why-dong.com/
-  src: life
-
-- name: 求生之路
-  url: http://blog.xiaolaoni.xin/
   src: life
 
 - name: 董小姐的草原
@@ -76,4 +68,8 @@
 
 - name: 梦境迷离
   url: https://dreamylost.cn
+  src: www
+
+- name: murmurwheel
+  url: https://github.com/murmur-wheel
   src: www
