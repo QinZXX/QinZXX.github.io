@@ -133,7 +133,7 @@ gitment:
     #owner: QinZXX
     owner: qinzxx
     #owner: mzlogin
-    repo: blog-comments
+    repo: issue
     oauth:
         client_id: 7d38f81f12b3ad36c905
         client_secret: 335d0a49c0dd138a1eecb087e54fa86e0bf0cce0
@@ -144,7 +144,7 @@ gitalk:
     #owner: QinZXX
     #owner: mzlogin
     owner: qinzxx
-    repo: blog-comments
+    repo: issue
     clientID: 7d38f81f12b3ad36c905
     clientSecret: 335d0a49c0dd138a1eecb087e54fa86e0bf0cce0
     #client_id: d2e1cbbd298958076462
