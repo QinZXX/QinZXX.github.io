@@ -4,6 +4,7 @@ title: 关于C++语法解析遇到的一个问题
 categories: ConcurrencyProgramming, CPlusPlus
 description: 关于C++语法解析遇到的一个问题
 keywords: 并发, Concurrency, 语法解析
+topmost: true
 ---
 
 
@@ -128,7 +129,6 @@ https://blog.csdn.net/qq_26189301/article/details/102699627
 > The problematic code is then unambiguous when braces are used:
 >
 > TimeKeeper time_keeper{Timer{}};
->
 
 3.**使用新的语法可以这样写`A a{std::string(stemp)};`**
 
