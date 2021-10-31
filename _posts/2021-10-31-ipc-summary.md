@@ -1,8 +1,8 @@
 ---
 layout: post
-title: linux进程间通信（一）：概述
+title: linux进程间通信之一-概述
 categories: linuxIPC
-description:linux进程间通信（一）：概述。
+description:linux进程间通信之一-概述。
 keywords: linux, IPC, 进程间通信
 ---
 
