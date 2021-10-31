@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 近期喜欢的好看的主题-one dark
-categories: Vim
-description: 近期喜欢的好看的主题-one dark。
-keywords: 主题, onedark
+title: linux进程间通信之一-概述
+categories: linuxIPC
+description:linux进程间通信之一-概述。
+keywords: linux, IPC, 进程间通信
 ---
 
 
@@ -13,12 +13,21 @@ keywords: 主题, onedark
 
 Linux下的进程通信手段基本上是从Unix平台上的进程通信手段继承而来的。而对Unix发展做出重大贡献的两大主力AT&T的贝尔实验室及BSD（加州大学伯克利分校的伯克利软件发布中心）在进程间通信方面的侧重点有所不同。前者对Unix早期的进程间通信手段进行了系统的改进和扩充，形成了“system V IPC”，通信进程局限在单个计算机内；后者则跳过了该限制，形成了基于套接口（socket）的进程间通信机制。Linux则把两者继承了下来，如图示：
 
+<div class="mermaid">
+graph LR
+	A(最初的unix IPC)--AT&T-->B1(System V IPC)-->C(linux IPC)
+	A-->C
+	A--BSD-->B2(基于socket IPC)-->C
+	B3[Posix IPC]-->C
+</div>
 
-layout: post
-title: linux进程间通信之一-概述
-categories: linuxIPC
-description:linux进程间通信之一-概述。
-keywords: linux, IPC, 进程间通信
+
+
+
+
+
+
+
 
 
 ```mermaid
