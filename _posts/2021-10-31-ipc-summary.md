@@ -1,13 +1,18 @@
 ---
 layout: post
+title: linux进程间通信-概述
+categories: Vim
+description: linux进程间通信-概述。
+keywords: linux, 进程间通信
+---
+
+# linux进程间通信（一）：概述
+
+layout: post
 title: linux进程间通信之一-概述
 categories: LinuxIPC
 description:linux进程间通信之一-概述。
 keywords: linux, IPC, 进程间通信
----
-
-
-# linux进程间通信（一）：概述
 
 ## 概述
 
