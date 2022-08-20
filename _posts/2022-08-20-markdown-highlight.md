@@ -148,55 +148,29 @@ size为10：<font size="10">size为10</font>
         </td>
     </tr>
 </table>
-<table>
-    <tr>
-        <td bgcolor=DarkSeaGreen>这里的背景色是：DarkSeaGreen，此处输入任意想输入的内容
-        </td>
-    </tr>
-</table>
 ~~~
 
 效果：
 
-<table>
-    <tr>
-        <td bgcolor=#FF00FF>背景色的设置是按照十六进制颜色值：#7FFFD4</td>		</tr>
-</table>
+<table><tr><td bgcolor=#FF00FF>背景色的设置是按照十六进制颜色值：#7FFFD4</td></tr></table>
 
-<table>
-    <tr>
-        <td bgcolor=#FF83FA>背景色的设置是按照十六进制颜色值：#FF83FA
-        </td>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <td bgcolor=#D1EEEE>背景色的设置是按照十六进制颜色值：#D1EEEE
-        </td>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <td bgcolor=#C0FF3E>背景色的设置是按照十六进制颜色值：#C0FF3E
-        </td>
-    </tr>
-</table>
+<table><tr><td bgcolor=#FF83FA>背景色的设置是按照十六进制颜色值：#FF83FA</td></tr></table>
 
-<table>
-    <tr>
-        <td bgcolor=#54FF9F>背景色的设置是按照十六进制颜色值：#54FF9F
-        </td>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <td bgcolor=DarkSeaGreen>这里的背景色是：DarkSeaGreen，此处输入任意想输入的内容
-        </td>
-    </tr>
-</table>
+
+<table><tr><td bgcolor=#D1EEEE>背景色的设置是按照十六进制颜色值：#D1EEEE</td></tr></table>
+
+
+
+<table><tr><td bgcolor=#C0FF3E>背景色的设置是按照十六进制颜色值：#C0FF3E</td></tr></table>
+
+
+
+<table><tr><td bgcolor=#54FF9F>背景色的设置是按照十六进制颜色值：#54FF9F</td></tr></table>
+
+
 
 
 
